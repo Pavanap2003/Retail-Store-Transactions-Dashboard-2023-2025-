@@ -116,6 +116,8 @@ Dashboard publication on the web for live updates.
 👩‍💻 Author
 
 Pavan A P
+
 📧 [appavan9@gmail.com]
+
 💼 [http://www.linkedin.com/in/pavan-ap-1455a0261]
 
